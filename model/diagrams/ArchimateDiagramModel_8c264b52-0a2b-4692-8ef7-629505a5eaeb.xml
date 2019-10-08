@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Architektura Aplikacyjna"
     id="8c264b52-0a2b-4692-8ef7-629505a5eaeb">
   <children
       xsi:type="archimate:DiagramModelGroup"
